@@ -218,22 +218,6 @@ Infraestrutura sólida e resiliente, sustentando operações críticas e projeto
 
 ---
 
-## 📂 Principais Repositórios Profissionais
-
-🔹 **minsait-projects**  
-Projetos de PMO, cloud, governança e dashboards executivos.
-
-🔹 **alfa-people-projects**  
-Projetos SAP S/4HANA, PMO e rollouts internacionais.
-
-🔹 **positivo-solutions-projects**  
-Infraestrutura, servidores, datacenter e modernização de ambientes.
-
-🔹 **project-management-toolkit**  
-Templates profissionais de gestão de projetos (Charter, Riscos, RACI, KPIs).
-
----
-
 ## 🏆 Destaques Profissionais
 
 - Liderança de projetos críticos e estratégicos
@@ -246,7 +230,7 @@ Templates profissionais de gestão de projetos (Charter, Riscos, RACI, KPIs).
 
 ## 🌍 Idiomas
 - Português: Nativo
-- Inglês: Profissional
+- Inglês: Técnico
 
 ---
 
