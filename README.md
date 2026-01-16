@@ -1,4 +1,4 @@
-# 👨‍💼 Consultor de Projetos de TI Sênior
+# 👨‍💼 Consultoria em Projetos de TI
 
 🚀 Profissional com mais de 15 anos de experiência em **Gestão de Projetos de TI**, 
 atuando em ambientes corporativos complexos, projetos estratégicos, transformação digital,
